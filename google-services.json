@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "393711464777",
+    "project_id": "fortyvpnmax",
+    "storage_bucket": "fortyvpnmax.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393711464777:android:0a78cf33fd562112e32a98",
+        "android_client_info": {
+          "package_name": "com.servicepro.fortyvpnmax"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkv_st_OlT0t58L5zzM4yJCDJKbLbpfC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393711464777:android:17499ccf8afed75ae32a98",
+        "android_client_info": {
+          "package_name": "com.servicepro.steadfastvpn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkv_st_OlT0t58L5zzM4yJCDJKbLbpfC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
